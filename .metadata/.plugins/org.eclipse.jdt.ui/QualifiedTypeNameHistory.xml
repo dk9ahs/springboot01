@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="SumMulti"/>
-    <fullyQualifiedTypeName name="MuultiAdderThread"/>
-    <fullyQualifiedTypeName name="MultiAdderThread"/>
-    <fullyQualifiedTypeName name="java.lang.Thread"/>
     <fullyQualifiedTypeName name="Increment"/>
     <fullyQualifiedTypeName name="IncThread"/>
     <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="prepared.SelectSQL"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Config"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Printer"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Member"/>
 </qualifiedTypeNameHistroy>
